@@ -8,13 +8,13 @@ This project provides a simple tool to generate headlines for news articles. It 
 - Spacy
 - wordcloud
 - seaborn
-### Getting Started
+## Getting Started
 
-Installation:
-Running the Code:
-Bash
-python main.py 
-Use code with caution.
-Contributing
+### Installation:
+- Running the Code:
+```Bash
+python main.py
+```
+## Contributing
 
 Feel free to suggest improvements or expand the project with more advanced NLP techniques!
