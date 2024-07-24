@@ -1,14 +1,14 @@
 # Headline-Generator
-Generate Headlines for news article using NLP
+Generate Headlines for news article using NLP techniques.
 This project provides a simple tool to generate headlines for news articles. It leverages Natural Language Processing techniques for basic analysis.
 
-Technologies
+### Technologies
 
-NLTK (Natural Language Toolkit)
-Spacy
-wordcloud
-seaborn
-# Getting Started
+- NLTK (Natural Language Toolkit)
+- Spacy
+- wordcloud
+- seaborn
+### Getting Started
 
 Installation:
 Running the Code:
